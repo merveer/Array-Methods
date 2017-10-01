@@ -1,4 +1,4 @@
-# Array-Methods-JS30-Project4
+# array-methods
 
 In this project you will see the usage of some array methods like 'filter, map, sort, reduce' with examples.
 
